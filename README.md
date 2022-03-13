@@ -34,10 +34,5 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muziyan&layout=compact&theme=tokyonight&hide=ejs,blade,html,css" alt="Alex's Top Langs">
 </p>
 
-## 👨‍💻 My GitHub activities of last 31 days.
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-![pudongping's github activity graph](https://activity-graph.herokuapp.com/graph?username=muziyan&theme=react-dark&area=true&custom_title=Alex%20Pu's%20Contribution%20Graph)
-
 
 <!-- details end-->
